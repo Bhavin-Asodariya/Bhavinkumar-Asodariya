@@ -1,8 +1,5 @@
 ### Hi I'm Bhavin 👋
-
-
-<h1 align="center">Hi 👋, I'm Bhavin</h1>
-<h3 align="center">A passionate backend developer from India</h3>
+<p>A passionate python developer from India</>
 
 - 🔭 I’m currently working at [Prydan Consultancy](https://prydan.com/)
 
