@@ -1,9 +1,11 @@
 ### Hi I'm Bhavin 👋
 <p>A passionate python developer from India</>
 
-- 🔭 I’m currently working at [Prydan Consultancy](https://prydan.com/)
+- 🔭 I’m currently working as python developer at [Prydan Consultancy](https://prydan.com/)
 
 - 📫 How to reach me **bhavin.prydan@gmail.com**
+  
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
