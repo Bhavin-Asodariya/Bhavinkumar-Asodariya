@@ -2,7 +2,7 @@
 <p>A passionate python developer from India</>
 
 - 🔭 I’m currently working as python developer at [Prydan Consultancy](https://prydan.com/)
-
+- 💬 Ask me about Python ,Django ,Html , CSS, and JavaScript.  
 - 📫 How to reach me **bhavin.prydan@gmail.com**
   
   
